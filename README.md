@@ -9,9 +9,9 @@ The project consists of configuring a Windows system to include enhanced logging
 
 <h2>Applications and Utilities Used</h2>
 
--<b>Elastic</b>
--<b>Kibana</b>
--<b>Winlogbeat</b>
+- <b>Elastic</b>
+- <b>Kibana</b>
+- <b>Winlogbeat</b>
 - <b>PowerShell</b> 
 - <b>Diskpart</b>
 
